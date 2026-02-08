@@ -1,3 +1,18 @@
+# Ignore csv
+*.csv
+
+# Ignore mlflow
+mlruns/
+mlflow.db
+**/mlflow.db
+
+# Ignore png
+*.png
+
+# Ignore txt
+*.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
